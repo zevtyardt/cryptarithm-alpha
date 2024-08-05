@@ -1,1 +1,1 @@
-![cryptarithm solver playground](https://apixcps.shuttleapp.rs)
+[Cryptarithm Solver Playground](https://apixcps.shuttleapp.rs)
