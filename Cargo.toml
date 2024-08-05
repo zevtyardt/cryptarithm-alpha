@@ -1,0 +1,10 @@
+[package]
+name = "cryptarithm_solver"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.86"
+cached = "0.53.1"
+crossbeam-channel = "0.5.13"
+itertools = "0.13.0"
